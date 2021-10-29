@@ -1,4 +1,2 @@
 # edu.learn.myLeetCode
-
-
-在leetcode力扣的题目学习之路，自用理解与回顾
+归纳思路和整理题目
